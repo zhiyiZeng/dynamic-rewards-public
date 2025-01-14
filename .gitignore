@@ -1,0 +1,9 @@
+ts-run-results/
+Results/
+Data/
+origin_data/
+pictures/
+ActionsPlot/
+__pycache__/
+forpaper/
+Objects/
